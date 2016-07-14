@@ -8,7 +8,7 @@ Test cases are held in tab-separated format files with the following columns:
 
 - [name](http://field.alpha.openregister.org/field/name) — a name for the test case which should be unique across all testcases
 - [text](http://field.alpha.openregister.org/field/text) — the address encoded as lines of text, newlines are encoded as '\n'
-- [addresses](http://field.alpha.openregister.org/field/addresses) — a list of the expected address register values separated by ';'.
+- [address](http://field.alpha.openregister.org/field/address) — a list of the expected address register values separated by ';'.
 
 A test case may contain additional fields for information.
 
